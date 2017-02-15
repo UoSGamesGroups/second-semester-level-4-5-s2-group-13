@@ -1,0 +1,42 @@
+15th February 2017
+
+11:43
+
+Attendees: George Flude, Heidi Falcon
+
+Absent: Macaulay Mills
+
+Agenda:
+
+Tasks completed:
+	Georges Tasks done
+		Need to reupload piece that failed to synC
+	Heidis Tasks Done
+		Finish one of the tasks that time was run out
+	Macaluays Tasks not done
+		No emails in the week besides Wednesday to say he'd be absent
+
+Meeting with Dave this week:
+	Game needs to have unprdictability
+	At the moment, its a game of skill and speed rather than physics
+		Thrusting the player forward
+		Player is pufferfish
+		Needs to have feedback for the player
+		Damage to each other
+		Waves change environment
+		
+
+Things to do this week:
+
+George
+redesign the character 2h
+Animate the Character 2h
+Heidi
+Score 2h
+Timer 2h
+Change Scene 1h
+Finalise Tutorial 1h
+Macaulay
+Research Buoyancy 3h
+Design Obstacles 2h
+Design Waves 1h
